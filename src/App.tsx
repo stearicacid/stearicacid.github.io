@@ -54,7 +54,7 @@ export default function App() {
 
           <Section title="About">
             <p>
-              I am a researcher working on music information retrieval and audio
+              I am a student working on music information retrieval and audio
               machine learning, with a focus on AMT and representation learning.
             </p>
 
