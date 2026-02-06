@@ -3,17 +3,15 @@ export const profile = {
   name: "Rin Sato",
   title: "Underraduate Student",
   affiliation: "Waseda University, Morishima Lab",
-  email: "your.name@example.com",
+  email: "rin_sato(at)akane.waseda.jp",
   interests: [
-    "Automatic Music Transcription (multi-instrument)",
-    "Audio generative models (VAE, diffusion, transformers)",
-    "Timbre representation and latent space analysis",
-    "Domain-specific LLMs",
+    "Automatic Music Transcription",
+    "Audio generative models",
+    "Music Information Retrieval"
   ],
   links: [
-    { label: "GitHub", url: "https://github.com/yourname" },
-    { label: "Google Scholar", url: "https://scholar.google.com/..." },
-    { label: "X (Twitter)", url: "https://x.com/..." },
+    { label: "GitHub", url: "https://github.com/stearicacid" },
+    { label: "X (Twitter)", url: "https://x.com/rin310_" },
   ],
 };
 
@@ -22,18 +20,19 @@ export type Publication = {
   authors: string;
   venue: string;
   year: number;
+  type: string;
   links?: { label: string; url: string }[];
 };
 
 export const publications: Publication[] = [
   {
-    title: "Timbre-based Pseudo-label Pretraining for Multi-instrument AMT",
-    authors: "R. Sato, et al.",
+    title: "Timbre-Based Pretraining with Pseudo-Labels for Multi-Instrument Automatic Music Transcription",
+    authors: "Rin Sato, Keitaro Tanaka, Shigeo Morishima",
     venue: "ICASSP",
     year: 2026,
+    type: "International",
     links: [
-      { label: "PDF", url: "#" },
-      { label: "Code", url: "#" },
+      { label: "Code", url: "https://github.com/stearicacid/timbre-based-pretraining" },
     ],
   },
 ];
