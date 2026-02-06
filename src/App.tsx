@@ -77,20 +77,20 @@ export default function App() {
       {/* Publications */}
       <Section title="Publications">
         <div className="pub-group">
-          <h3 className="subhead">国際学会（査読あり）</h3>
+          <h3 className="subhead">International Conferences (Peer-Reviewed)</h3>
           {international.length > 0 ? (
             <PublicationsList items={international} />
           ) : (
-            <p className="muted">まだ登録されていません。</p>
+            <p className="muted">Coming soon...</p>
           )}
         </div>
 
         <div className="pub-group">
-          <h3 className="subhead">国内学会（査読なし）</h3>
+          <h3 className="subhead">Domestic Conferences (Non-Peer-Reviewed)</h3>
           {domestic.length > 0 ? (
             <PublicationsList items={domestic} />
           ) : (
-            <p className="muted">まだ登録されていません。</p>
+            <p className="muted">Coming soon...</p>
           )}
         </div>
       </Section>
