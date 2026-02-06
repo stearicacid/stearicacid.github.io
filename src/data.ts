@@ -1,7 +1,7 @@
 // src/data.ts
 export const profile = {
   name: "Rin Sato",
-  title: "Underraduate Student",
+  title: "Undergraduate Student",
   affiliation: "Waseda University, Morishima Lab",
   email: "rin_sato(at)akane.waseda.jp",
   interests: [
