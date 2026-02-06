@@ -1,16 +1,19 @@
+// src/data.ts
 export const profile = {
   name: "Rin Sato",
-  title: "Undergraduate Student",
+  title: "Underraduate Student",
   affiliation: "Waseda University, Morishima Lab",
-  email: "rin_sato<at>akane.waseda.jp",
+  email: "your.name@example.com",
   interests: [
-    "Automatic Music Transcription",
-    "Audio generative models",
-    "Music Information Retrieval"
+    "Automatic Music Transcription (multi-instrument)",
+    "Audio generative models (VAE, diffusion, transformers)",
+    "Timbre representation and latent space analysis",
+    "Domain-specific LLMs",
   ],
   links: [
-    { label: "GitHub", url: "https://github.com/stearicacid" },
-    { label: "X (Twitter)", url: "https://x.com/rin310_" },
+    { label: "GitHub", url: "https://github.com/yourname" },
+    { label: "Google Scholar", url: "https://scholar.google.com/..." },
+    { label: "X (Twitter)", url: "https://x.com/..." },
   ],
 };
 
@@ -19,17 +22,15 @@ export type Publication = {
   authors: string;
   venue: string;
   year: number;
-  type: string;
   links?: { label: string; url: string }[];
 };
 
 export const publications: Publication[] = [
   {
     title: "Timbre-based Pseudo-label Pretraining for Multi-instrument AMT",
-    authors: "Rin Sato, Keitaro Tanaka, Shigeo Morishima",
+    authors: "R. Sato, et al.",
     venue: "ICASSP",
     year: 2026,
-    type; "International",
     links: [
       { label: "PDF", url: "#" },
       { label: "Code", url: "#" },
