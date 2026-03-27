@@ -1,4 +1,4 @@
-import { profile, publications } from "./data";
+import { awards, profile, publications } from "./data";
 import "./index.css";
 
 function Section(props: { title: string; children: React.ReactNode }) {
@@ -12,7 +12,7 @@ function Section(props: { title: string; children: React.ReactNode }) {
 }
 
 function PublicationsList(props: { items: typeof publications }) {
-  const sorted = [...props.items].sort((a, b) => b.year - a.year);
+  const sorted = [...props.items];
 
   return (
     <ul className="pub-list">
@@ -20,7 +20,12 @@ function PublicationsList(props: { items: typeof publications }) {
         <li key={`${pub.title}-${idx}`} className="pub-item">
           <div className="pub-title">{pub.title}</div>
           <div className="pub-meta">
-            {pub.authors} — <em>{pub.venue}</em>, {pub.year}
+            {pub.authors} — <em>{pub.venue}</em>, {pub.date}
+            {pub.award && (
+              <>
+                , (<strong>{pub.award}</strong>)
+              </>
+            )}
           </div>
           {pub.links && pub.links.length > 0 && (
             <div className="pub-links">
@@ -37,9 +42,34 @@ function PublicationsList(props: { items: typeof publications }) {
   );
 }
 
+function AwardsList() {
+  return (
+    <ul className="pub-list">
+      {awards.map((award, idx) => (
+        <li key={`${award.title}-${idx}`} className="pub-item">
+          <div className="pub-meta">
+            {award.title}, {award.date}.
+          </div>
+        </li>
+      ))}
+    </ul>
+  );
+}
+
 export default function App() {
-  const international = publications.filter((p) => p.type === "International");
-  const domestic = publications.filter((p) => p.type === "Domestic");
+  const internationalFirst = publications.filter(
+    (p) => p.category === "International" && p.authorRole === "First"
+  );
+  const internationalCoauthor = publications.filter(
+    (p) => p.category === "International" && p.authorRole === "Co-author"
+  );
+  const domesticFirst = publications.filter(
+    (p) => p.category === "Domestic" && p.authorRole === "First"
+  );
+  const domesticCoauthor = publications.filter(
+    (p) => p.category === "Domestic" && p.authorRole === "Co-author"
+  );
+
   return (
     <div className="container">
       {/* Hero (Header + About + Avatar on the right) */}
@@ -77,22 +107,41 @@ export default function App() {
       {/* Publications */}
       <Section title="Publications">
         <div className="pub-group">
-          <h3 className="subhead">International Conferences (Peer-Reviewed)</h3>
-          {international.length > 0 ? (
-            <PublicationsList items={international} />
+          <h3 className="subhead">International Conference (First Author)</h3>
+          {internationalFirst.length > 0 ? (
+            <PublicationsList items={internationalFirst} />
           ) : (
             <p className="muted">Coming soon...</p>
           )}
         </div>
 
+        {internationalCoauthor.length > 0 && (
+          <div className="pub-group">
+            <h3 className="subhead">International Conference (Co-author)</h3>
+            <PublicationsList items={internationalCoauthor} />
+          </div>
+        )}
+
         <div className="pub-group">
-          <h3 className="subhead">Domestic Conferences (Non-Peer-Reviewed)</h3>
-          {domestic.length > 0 ? (
-            <PublicationsList items={domestic} />
+          <h3 className="subhead">Domestic Conference (First Author)</h3>
+          {domesticFirst.length > 0 ? (
+            <PublicationsList items={domesticFirst} />
           ) : (
             <p className="muted">Coming soon...</p>
           )}
         </div>
+
+        {domesticCoauthor.length > 0 && (
+          <div className="pub-group">
+            <h3 className="subhead">Domestic Conference (Co-author)</h3>
+            <PublicationsList items={domesticCoauthor} />
+          </div>
+        )}
+      </Section>
+
+      {/* Awards */}
+      <Section title="Awards">
+        {awards.length > 0 ? <AwardsList /> : <p className="muted">Coming soon...</p>}
       </Section>
 
       {/* Contact */}
@@ -101,6 +150,8 @@ export default function App() {
           Email:{" "}
           <a href={`mailto:${profile.email}`}>{profile.email}</a>
         </p>
+        <p>Address: {profile.address}</p>
+        <p>Phone number: {profile.phone}</p>
         <ul className="links">
           {profile.links.map((l) => (
             <li key={l.url}>
