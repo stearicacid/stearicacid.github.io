@@ -20,12 +20,12 @@ function PublicationsList(props: { items: typeof publications }) {
         <li key={`${pub.title}-${idx}`} className="pub-item">
           <div className="pub-title">{pub.title}</div>
           <div className="pub-meta">
-            {pub.authors} — <em>{pub.venue}</em>, {pub.date}
-            {pub.award && (
-              <>
-                , (<strong>{pub.award}</strong>)
-              </>
-            )}
+            {pub.authors}. {pub.venue},{" "}
+            {pub.month && pub.year
+              ? `${pub.month} ${pub.year}`
+              : pub.date || pub.year}
+            .
+            {pub.award && <> <strong>{pub.award}</strong></>}
           </div>
           {pub.links && pub.links.length > 0 && (
             <div className="pub-links">
@@ -44,13 +44,9 @@ function PublicationsList(props: { items: typeof publications }) {
 
 function AwardsList() {
   return (
-    <ul className="pub-list">
+    <ul className="awards-list">
       {awards.map((award, idx) => (
-        <li key={`${award.title}-${idx}`} className="pub-item">
-          <div className="pub-meta">
-            {award.title}, {award.date}.
-          </div>
-        </li>
+        <li key={`${award.title}-${idx}`}>{award.title}, {award.date}.</li>
       ))}
     </ul>
   );
