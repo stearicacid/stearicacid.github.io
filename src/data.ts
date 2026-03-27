@@ -52,7 +52,6 @@ export const publications: Publication[] = [
     authors: "Rin Sato, Keitaro Tanaka, Shigeo Morishima",
     venue: "ICASSP",
     date: "2026",
-    award: "Student Award",
     links: [
       { label: "Code", url: "https://github.com/stearicacid/timbre-based-pretraining" },
     ],
@@ -64,6 +63,7 @@ export const publications: Publication[] = [
     authors: "佐藤りん, 田中啓太郎, 八木颯斗, 高道慎之介, 森島繁生",
     venue: "第145回音楽情報科学研究発表会",
     date: "2026",
+    award: "学生奨励賞 Best New Direction部門 ",
   },
   {
     category: "Domestic",
@@ -80,5 +80,6 @@ export const publications: Publication[] = [
     authors: "佐藤りん, 田中啓太郎, 森島繁生",
     venue: "情報処理学会第88回全国大会",
     date: "2026",
+    award: "学生奨励賞",
   },
 ];

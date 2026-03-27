@@ -107,7 +107,7 @@ export default function App() {
       {/* Publications */}
       <Section title="Publications">
         <div className="pub-group">
-          <h3 className="subhead">International Conference (First Author)</h3>
+          <h3 className="subhead">International Conference (Reviewed, First Author)</h3>
           {internationalFirst.length > 0 ? (
             <PublicationsList items={internationalFirst} />
           ) : (
@@ -117,13 +117,13 @@ export default function App() {
 
         {internationalCoauthor.length > 0 && (
           <div className="pub-group">
-            <h3 className="subhead">International Conference (Co-author)</h3>
+            <h3 className="subhead">International Conference (Reviewed, Co-author)</h3>
             <PublicationsList items={internationalCoauthor} />
           </div>
         )}
 
         <div className="pub-group">
-          <h3 className="subhead">Domestic Conference (First Author)</h3>
+          <h3 className="subhead">国内学会 (査読なし, 主著)</h3>
           {domesticFirst.length > 0 ? (
             <PublicationsList items={domesticFirst} />
           ) : (
@@ -133,7 +133,7 @@ export default function App() {
 
         {domesticCoauthor.length > 0 && (
           <div className="pub-group">
-            <h3 className="subhead">Domestic Conference (Co-author)</h3>
+            <h3 className="subhead">国内学会 (査読なし, 共著)</h3>
             <PublicationsList items={domesticCoauthor} />
           </div>
         )}
