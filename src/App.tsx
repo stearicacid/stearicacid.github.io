@@ -89,6 +89,14 @@ export default function App() {
                 <li key={item}>{item}</li>
               ))}
             </ul>
+
+            <p>
+              Here is my{" "}
+              <a href="/Rin_Sato_CV.pdf" target="_blank" rel="noreferrer">
+                CV
+              </a>
+              .
+            </p>
           </Section>
         </div>
 

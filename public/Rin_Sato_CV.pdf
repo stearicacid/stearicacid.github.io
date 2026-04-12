@@ -1,0 +1,128 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 3 /Kids [3 0 R 4 0 R 5 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 6 0 R /Annots [11 0 R] >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 7 0 R >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 8 0 R >>
+endobj
+6 0 obj
+<< /Length 2794 >>
+stream
+BT /F2 26 Tf 0.08 0.1 0.15 rg 1 0 0 1 52.00 790.00 Tm (Rin Sato) Tj ET
+1 w 0.25 0.29 0.38 RG 52 742.30 m 543 742.30 l S
+BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 718.30 Tm (About) Tj ET
+0.8 w 0.82 0.85 0.9 RG 52 699.00 m 543 699.00 l S
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 52.00 680.00 Tm (Graduate student in music information retrieval and audio machine learning, with a) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 52.00 664.05 Tm (focus on automatic music transcription and representation learning.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 644.10 Tm (- Research interests: Automatic Music Transcription, audio generative models, and) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 627.05 Tm (Music Information Retrieval.) Tj ET
+BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 587.00 Tm (General Information) Tj ET
+0.8 w 0.82 0.85 0.9 RG 52 567.70 m 543 567.70 l S
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 548.70 Tm (- Location: Tokyo, Japan) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 524.65 Tm (- Email: rin_sato@akane.waseda.jp) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 500.60 Tm (- Web: stearicacid.github.io) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 476.55 Tm (- Language: Japanese \(native\) and English \(CEFR level: B2\)) Tj ET
+BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 436.50 Tm (Education) Tj ET
+0.8 w 0.82 0.85 0.9 RG 52 417.20 m 543 417.20 l S
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 398.20 Tm (Master of Engineering, Waseda University \(2026.4 - current\)) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 377.53 Tm (Graduate School of Advanced Science and Engineering) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 358.87 Tm (Advisor: Prof. Shigeo Morishima) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 330.20 Tm (Bachelor of Engineering, Waseda University \(2022.4 - 2026.3\)) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 309.53 Tm (Department of Applied Physics) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 290.87 Tm (Advisor: Prof. Shigeo Morishima) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 262.21 Tm (United World College Red Cross Nordic \(2019.7 - 2021.5\)) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 241.53 Tm (International Baccalaureate Diploma) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 212.87 Tm (Shonan High School \(2018.4 - 2022.3\)) Tj ET
+BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 166.20 Tm (Awards) Tj ET
+0.8 w 0.82 0.85 0.9 RG 52 146.90 m 543 146.90 l S
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 127.90 Tm (- Student Encouragement Award, IPSJ 88th National Convention, Mar 8, 2026.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 103.85 Tm (- Student Encouragement Award, 145th Music Information Science Research Meeting) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 86.80 Tm (\(Best New Direction\), Mar 2, 2026.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 3942 >>
+stream
+BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 774.00 Tm (Publications) Tj ET
+0.8 w 0.82 0.85 0.9 RG 52 754.70 m 543 754.70 l S
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 735.70 Tm (- Sato, R., Tanaka, K., Morishima, S. Timbre-Based Pretraining with Pseudo-Labels) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 718.65 Tm (for Multi-Instrument Automatic Music Transcription. ICASSP 2026.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 694.60 Tm (- Sato, R., Tanaka, K., Yagi, H., Takamichi, S., Morishima, S. A study on analysis) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 677.55 Tm (methods for representation formation in music foundation models. 145th Music) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 660.50 Tm (Information Science Research Meeting, 2026 \(domestic, first author\).) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 636.45 Tm (- Sato, R., Tanaka, K., Morishima, S. Improving Multi-Instrument Automatic Music) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 619.40 Tm (Transcription via Pseudo-Label Pretraining in a Learned Timbre Latent Space.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 602.35 Tm (88th National Convention, 2026 \(domestic, first author\).) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 578.30 Tm (- Yagi, H., Takamichi, S., Sato, R., Tanaka, K., Morishima, S. Relationship between) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 561.25 Tm (acoustic features and latent pitch spiral in music foundation models. 145th) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 544.20 Tm (Information Science Research Meeting, 2026 \(domestic, co-author\).) Tj ET
+BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 504.15 Tm (Working Experience) Tj ET
+0.8 w 0.82 0.85 0.9 RG 52 484.85 m 543 484.85 l S
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 465.85 Tm (Software Engineer, Metadata Incorporated \(2025.8 - current\)) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 445.18 Tm (Developed a new ChatBrid feature where an LLM evaluates responses generated through) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 429.52 Tm (RAG pipelines.) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 410.86 Tm (Validated fine-tuning approaches for domain-specialized LLMs and conducted prompt) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 395.20 Tm (engineering for production use.) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 376.54 Tm (Performed RAG quality verification and implemented features with React, Ruby on) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 360.88 Tm (Rails, Elasticsearch, Kubernetes, and Docker.) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 332.22 Tm (Software and Hardware Engineer, Enecloud Incorporated \(2025.1 - 2025.8\)) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 311.54 Tm (Developed CRM frontend features using React and TypeScript.) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 292.88 Tm (Contributed to hardware development for electric-power measurement products.) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 264.22 Tm (Teaching Assistant, Research Seminar on Applied Physics, Waseda University \(2026.4) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 247.55 Tm (- current\)) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 226.87 Tm (Supported undergraduate students through research processes across three semesters.) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 208.21 Tm (Mentored two students in image-generation model development and evaluation.) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 189.55 Tm (Led students in presenting their research outcomes to faculty members.) Tj ET
+BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 144.89 Tm (Competences) Tj ET
+0.8 w 0.82 0.85 0.9 RG 52 125.59 m 543 125.59 l S
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 106.59 Tm (- Machine Learning: automatic music transcription, music information retrieval,) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 89.54 Tm (representation learning, and experiment design.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 522 >>
+stream
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 790.00 Tm (- LLM Engineering: RAG evaluation, prompt engineering, and fine-tuning validation) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 772.95 Tm (for domain-specific applications.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 748.90 Tm (- Software Development: React, TypeScript, Ruby on Rails, Elasticsearch,) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 731.85 Tm (Kubernetes, Docker, and Git.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 52.00 707.80 Tm (Last updated date: April 12, 2026) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+10 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [108.04 497.85 228.16 511.05] /Border [0 0 0] /A << /S /URI /URI (https://stearicacid.github.io/) >> >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000281 00000 n 
+0000000418 00000 n 
+0000000555 00000 n 
+0000003400 00000 n 
+0000007393 00000 n 
+0000007965 00000 n 
+0000008035 00000 n 
+0000008111 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+8268
+%%EOF

@@ -1,7 +1,7 @@
 // src/data.ts
 export const profile = {
   name: "Rin Sato",
-  title: "Undergraduate Student",
+  title: "Graduate Student",
   affiliation: "Waseda University, Morishima Lab",
   email: "rin_sato(at)akane.waseda.jp",
   address: "55N406, 3-4-1 Okubo, Shinjuku, Tokyo, 169-0072, Japan (Morishima-Lab.)",
