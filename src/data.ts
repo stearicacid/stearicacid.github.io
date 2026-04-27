@@ -27,7 +27,8 @@ export type Publication = {
   year: number;
   date?: string;
   award?: string;
-  links?: { label: string; url: string }[];
+  links?: { label: string; url: string 
+  }[];
 };
 
 export type Award = {
@@ -56,6 +57,7 @@ export const publications: Publication[] = [
     month: "May",
     year: 2026,
     links: [
+      { label: "Paper", url: "https://ieeexplore.ieee.org/abstract/document/11464219" },
       { label: "Code", url: "https://github.com/stearicacid/timbre-based-pretraining" },
     ],
   },
