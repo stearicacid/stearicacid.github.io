@@ -27,8 +27,7 @@ export type Publication = {
   year: number;
   date?: string;
   award?: string;
-  links?: { label: string; url: string 
-  }[];
+  links?: { label: string; url: string }[];
 };
 
 export type Award = {
