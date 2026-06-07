@@ -1,7 +1,7 @@
 // src/data.ts
 export const profile = {
   name: "Rin Sato",
-  title: "Graduate Student",
+  title: "Master Student",
   affiliation: "Waseda University, Morishima Lab",
   email: "rin_sato(at)akane.waseda.jp",
   address: "55N406, 3-4-1 Okubo, Shinjuku, Tokyo, 169-0072, Japan (Morishima-Lab.)",
@@ -52,7 +52,7 @@ export const publications: Publication[] = [
     authorRole: "First",
     title: "Timbre-Based Pretraining with Pseudo-Labels for Multi-Instrument Automatic Music Transcription",
     authors: "Rin Sato, Keitaro Tanaka, Shigeo Morishima",
-    venue: "ICASSP",
+    venue: "IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)",
     month: "May",
     year: 2026,
     links: [
@@ -88,5 +88,14 @@ export const publications: Publication[] = [
     month: "March",
     year: 2026,
     award: "学生奨励賞",
+  },
+  {
+    category: "Domestic",
+    authorRole: "First",
+    title: "音楽基盤モデルの学習過程における内在音高螺旋の解析",
+    authors: "佐藤りん, 田中啓太郎, 八木颯斗, 高道慎之介, 森島繁生",
+    venue: "第146回音楽情報科学・第160回音声言語情報処理合同研究発表会",
+    month: "June",
+    year: 2026,
   },
 ];
