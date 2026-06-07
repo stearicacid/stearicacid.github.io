@@ -1,7 +1,7 @@
 // src/data.ts
 export const profile = {
   name: "Rin Sato",
-  title: "Master Student",
+  title: "Master's Student",
   affiliation: "Waseda University, Morishima Lab",
   email: "rin_sato(at)akane.waseda.jp",
   address: "55N406, 3-4-1 Okubo, Shinjuku, Tokyo, 169-0072, Japan (Morishima-Lab.)",
@@ -9,7 +9,8 @@ export const profile = {
   interests: [
     "Automatic Music Transcription",
     "Audio generative models",
-    "Music Information Retrieval"
+    "Music Information Retrieval",
+    "Representation Learning",
   ],
   links: [
     { label: "GitHub", url: "https://github.com/stearicacid" },
