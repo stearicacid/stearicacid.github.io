@@ -8,13 +8,13 @@ export const profile = {
   phone: "+81-3-5286-3510 (Morishima-Lab.)",
   interests: [
     "Automatic Music Transcription",
-    "Audio generative models",
     "Music Information Retrieval",
     "Representation Learning",
   ],
   links: [
     { label: "GitHub", url: "https://github.com/stearicacid" },
     { label: "X (Twitter)", url: "https://x.com/rin310_" },
+    { label: "Morishima-Lab", url: "https://morishima-lab.jp/" },
   ],
 };
 
@@ -102,15 +102,6 @@ export const publications: Publication[] = [
   {
     category: "Domestic",
     authorRole: "Co-author",
-    title: "音楽基盤モデルにおける音響特徴と内在音高螺旋の関係",
-    authors: "八木颯斗, 高道慎之介, 佐藤りん, 田中啓太郎, 森島繁生",
-    venue: "第145回音楽情報科学研究発表会",
-    month: "March",
-    year: 2026,
-  },
-  {
-    category: "Domestic",
-    authorRole: "Co-author",
     title: "音楽基盤モデルは単音から和音の埋め込みをどのように演算するか？",
     authors: "千頭和翔梧, 岸秀, 八木颯斗, 佐藤りん, 高道慎之介, 田中啓太郎, 森島繁生",
     venue: "第147回音楽情報科学研究発表会",
@@ -124,6 +115,15 @@ export const publications: Publication[] = [
     authors: "八木颯斗, 高道慎之介, 佐藤りん, 田中啓太郎, 森島繁生",
     venue: "第147回音楽情報科学研究発表会",
     month: "August",
+    year: 2026,
+  },
+  {
+    category: "Domestic",
+    authorRole: "Co-author",
+    title: "音楽基盤モデルにおける音響特徴と内在音高螺旋の関係",
+    authors: "八木颯斗, 高道慎之介, 佐藤りん, 田中啓太郎, 森島繁生",
+    venue: "第145回音楽情報科学研究発表会",
+    month: "March",
     year: 2026,
   },
 ];

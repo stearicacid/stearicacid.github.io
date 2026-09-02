@@ -208,10 +208,14 @@ addBullet("Student Encouragement Award, IPSJ 88th National Convention, Mar 8, 20
 addBullet("Student Encouragement Award, 145th Music Information Science Research Meeting (Best New Direction), Mar 2, 2026.");
 
 addSectionTitle("Publications");
-addBullet("Sato, R., Tanaka, K., Morishima, S. Timbre-Based Pretraining with Pseudo-Labels for Multi-Instrument Automatic Music Transcription. ICASSP 2026.");
-addBullet("Sato, R., Tanaka, K., Yagi, H., Takamichi, S., Morishima, S. A study on analysis methods for representation formation in music foundation models. 145th Music Information Science Research Meeting, 2026 (domestic, first author).");
-addBullet("Sato, R., Tanaka, K., Morishima, S. Improving Multi-Instrument Automatic Music Transcription via Pseudo-Label Pretraining in a Learned Timbre Latent Space. IPSJ 88th National Convention, 2026 (domestic, first author).");
-addBullet("Yagi, H., Takamichi, S., Sato, R., Tanaka, K., Morishima, S. Relationship between acoustic features and latent pitch spiral in music foundation models. 145th Music Information Science Research Meeting, 2026 (domestic, co-author).");
+addBullet("Sato, R., Tanaka, K., and Morishima, S. Timbre-Based Pretraining with Pseudo-Labels for Multi-Instrument Automatic Music Transcription. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May 2026.");
+addBullet("Yagi, H., Takamichi, S., Sato, R., Tanaka, K., and Morishima, S. Do Music Foundation Models Embed Pitch in Helical Structure? The International Society for Music Information Retrieval (ISMIR), November 2026.");
+addBullet("Sato, R., Tanaka, K., Yagi, H., Takamichi, S., and Morishima, S. Analysis of the Intrinsic Pitch Helix in the Learning Process of Music Foundation Models. 146th Music Information Science and 160th Speech and Language Processing Joint Research Meeting, June 2026.");
+addBullet("Sato, R., Tanaka, K., and Morishima, S. Improving Multi-Instrument Automatic Music Transcription via Pseudo-Label Pretraining in a Timbre-Based Latent Space. 88th National Convention of the Information Processing Society of Japan, March 2026. Student Encouragement Award.");
+addBullet("Sato, R., Tanaka, K., Yagi, H., Takamichi, S., and Morishima, S. A Study of Methods for Analyzing the Learning Process of Representation Formation in Music Foundation Models. 145th Music Information Science Research Meeting, March 2026. Student Encouragement Award (Best New Direction).");
+addBullet("Yagi, H., Takamichi, S., Sato, R., Tanaka, K., and Morishima, S. Relationship between Acoustic Features and the Intrinsic Pitch Helix in Music Foundation Models. 145th Music Information Science Research Meeting, March 2026.");
+addBullet("Chiwawa, S., Kishi, S., Yagi, H., Sato, R., Takamichi, S., Tanaka, K., and Morishima, S. How Do Music Foundation Models Compute Embeddings from Single Notes to Chords? 147th Music Information Science Research Meeting, August 2026.");
+addBullet("Yagi, H., Takamichi, S., Sato, R., Tanaka, K., and Morishima, S. Relationship between Model Architecture and the Intrinsic Pitch Helix in Music Foundation Models. 147th Music Information Science Research Meeting, August 2026.");
 
 addSectionTitle("Working Experience");
 addCompactItem("Software Engineer, Metadata Incorporated (2025.8 - current)", [
@@ -229,13 +233,22 @@ addCompactItem("Teaching Assistant, Research Seminar on Applied Physics, Waseda 
   "Led students in presenting their research outcomes to faculty members.",
 ]);
 
+addCompactItem("Software Engineering Intern, Sansan, Inc. (2026.7 - 2026.8)", [
+  "Developed web applications incorporating large language models (LLMs) and automatic speech recognition (ASR).",
+]);
+
+addSectionTitle("Research Experience");
+addCompactItem("AIST Technical Trainee, Media Interaction Group, Human Informatics and Interaction Research Institute, National Institute of Advanced Industrial Science and Technology (AIST) (2026.8 - 2026.9)", [
+  "Conducted research under the supervision of Dr. Tomoyasu Nakano.",
+]);
+
 addSectionTitle("Competences");
 addBullet("Machine Learning: automatic music transcription, music information retrieval, representation learning, and experiment design.");
 addBullet("LLM Engineering: RAG evaluation, prompt engineering, and fine-tuning validation for domain-specific applications.");
 addBullet("Software Development: React, TypeScript, Ruby on Rails, Elasticsearch, Kubernetes, Docker, and Git.");
 
 
-addParagraph("Last updated date: April 12, 2026", { size: 11, after: 0 });
+addParagraph("Last updated date: September 2, 2026", { size: 11, after: 0 });
 
 const contentStreams = pages.map((ops) => `${ops.join("\n")}\n`);
 

@@ -50,52 +50,78 @@ BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 86.80 Tm (\(Best New Direction\), Mar 2, 202
 endstream
 endobj
 7 0 obj
-<< /Length 3942 >>
+<< /Length 4297 >>
 stream
 BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 774.00 Tm (Publications) Tj ET
 0.8 w 0.82 0.85 0.9 RG 52 754.70 m 543 754.70 l S
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 735.70 Tm (- Sato, R., Tanaka, K., Morishima, S. Timbre-Based Pretraining with Pseudo-Labels) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 718.65 Tm (for Multi-Instrument Automatic Music Transcription. ICASSP 2026.) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 694.60 Tm (- Sato, R., Tanaka, K., Yagi, H., Takamichi, S., Morishima, S. A study on analysis) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 677.55 Tm (methods for representation formation in music foundation models. 145th Music) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 660.50 Tm (Information Science Research Meeting, 2026 \(domestic, first author\).) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 636.45 Tm (- Sato, R., Tanaka, K., Morishima, S. Improving Multi-Instrument Automatic Music) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 619.40 Tm (Transcription via Pseudo-Label Pretraining in a Learned Timbre Latent Space.) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 602.35 Tm (88th National Convention, 2026 \(domestic, first author\).) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 578.30 Tm (- Yagi, H., Takamichi, S., Sato, R., Tanaka, K., Morishima, S. Relationship between) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 561.25 Tm (acoustic features and latent pitch spiral in music foundation models. 145th) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 544.20 Tm (Information Science Research Meeting, 2026 \(domestic, co-author\).) Tj ET
-BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 504.15 Tm (Working Experience) Tj ET
-0.8 w 0.82 0.85 0.9 RG 52 484.85 m 543 484.85 l S
-BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 465.85 Tm (Software Engineer, Metadata Incorporated \(2025.8 - current\)) Tj ET
-BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 445.18 Tm (Developed a new ChatBrid feature where an LLM evaluates responses generated through) Tj ET
-BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 429.52 Tm (RAG pipelines.) Tj ET
-BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 410.86 Tm (Validated fine-tuning approaches for domain-specialized LLMs and conducted prompt) Tj ET
-BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 395.20 Tm (engineering for production use.) Tj ET
-BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 376.54 Tm (Performed RAG quality verification and implemented features with React, Ruby on) Tj ET
-BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 360.88 Tm (Rails, Elasticsearch, Kubernetes, and Docker.) Tj ET
-BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 332.22 Tm (Software and Hardware Engineer, Enecloud Incorporated \(2025.1 - 2025.8\)) Tj ET
-BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 311.54 Tm (Developed CRM frontend features using React and TypeScript.) Tj ET
-BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 292.88 Tm (Contributed to hardware development for electric-power measurement products.) Tj ET
-BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 264.22 Tm (Teaching Assistant, Research Seminar on Applied Physics, Waseda University \(2026.4) Tj ET
-BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 247.55 Tm (- current\)) Tj ET
-BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 226.87 Tm (Supported undergraduate students through research processes across three semesters.) Tj ET
-BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 208.21 Tm (Mentored two students in image-generation model development and evaluation.) Tj ET
-BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 189.55 Tm (Led students in presenting their research outcomes to faculty members.) Tj ET
-BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 144.89 Tm (Competences) Tj ET
-0.8 w 0.82 0.85 0.9 RG 52 125.59 m 543 125.59 l S
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 106.59 Tm (- Machine Learning: automatic music transcription, music information retrieval,) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 89.54 Tm (representation learning, and experiment design.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 735.70 Tm (- Sato, R., Tanaka, K., and Morishima, S. Timbre-Based Pretraining with) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 718.65 Tm (Pseudo-Labels for Multi-Instrument Automatic Music Transcription. IEEE) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 701.60 Tm (International Conference on Acoustics, Speech, and Signal Processing \(ICASSP\),) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 684.55 Tm (2026.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 660.50 Tm (- Yagi, H., Takamichi, S., Sato, R., Tanaka, K., and Morishima, S. Do Music) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 643.45 Tm (Foundation Models Embed Pitch in Helical Structure? The International Society) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 626.40 Tm (Music Information Retrieval \(ISMIR\), November 2026.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 602.35 Tm (- Sato, R., Tanaka, K., Yagi, H., Takamichi, S., and Morishima, S. Analysis of the) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 585.30 Tm (Intrinsic Pitch Helix in the Learning Process of Music Foundation Models. 146th) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 568.25 Tm (Music Information Science and 160th Speech and Language Processing Joint) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 551.20 Tm (Meeting, June 2026.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 527.15 Tm (- Sato, R., Tanaka, K., and Morishima, S. Improving Multi-Instrument Automatic) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 510.10 Tm (Music Transcription via Pseudo-Label Pretraining in a Timbre-Based Latent Space.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 493.05 Tm (88th National Convention of the Information Processing Society of Japan, March) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 476.00 Tm (2026. Student Encouragement Award.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 451.95 Tm (- Sato, R., Tanaka, K., Yagi, H., Takamichi, S., and Morishima, S. A Study of) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 434.90 Tm (Methods for Analyzing the Learning Process of Representation Formation in Music) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 417.85 Tm (Foundation Models. 145th Music Information Science Research Meeting, March 2026.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 400.80 Tm (Student Encouragement Award \(Best New Direction\).) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 376.75 Tm (- Yagi, H., Takamichi, S., Sato, R., Tanaka, K., and Morishima, S. Relationship) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 359.70 Tm (between Acoustic Features and the Intrinsic Pitch Helix in Music Foundation) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 342.65 Tm (145th Music Information Science Research Meeting, March 2026.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 318.60 Tm (- Chiwawa, S., Kishi, S., Yagi, H., Sato, R., Takamichi, S., Tanaka, K., and) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 301.55 Tm (Morishima, S. How Do Music Foundation Models Compute Embeddings from Single) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 284.50 Tm (to Chords? 147th Music Information Science Research Meeting, August 2026.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 260.45 Tm (- Yagi, H., Takamichi, S., Sato, R., Tanaka, K., and Morishima, S. Relationship) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 243.40 Tm (between Model Architecture and the Intrinsic Pitch Helix in Music Foundation) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 226.35 Tm (Models. 147th Music Information Science Research Meeting, August 2026.) Tj ET
+BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 186.30 Tm (Working Experience) Tj ET
+0.8 w 0.82 0.85 0.9 RG 52 167.00 m 543 167.00 l S
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 148.00 Tm (Software Engineer, Metadata Incorporated \(2025.8 - current\)) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 127.33 Tm (Developed a new ChatBrid feature where an LLM evaluates responses generated through) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 111.67 Tm (RAG pipelines.) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 93.01 Tm (Validated fine-tuning approaches for domain-specialized LLMs and conducted prompt) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 77.35 Tm (engineering for production use.) Tj ET
 endstream
 endobj
 8 0 obj
-<< /Length 522 >>
+<< /Length 3217 >>
 stream
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 790.00 Tm (- LLM Engineering: RAG evaluation, prompt engineering, and fine-tuning validation) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 772.95 Tm (for domain-specific applications.) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 748.90 Tm (- Software Development: React, TypeScript, Ruby on Rails, Elasticsearch,) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 731.85 Tm (Kubernetes, Docker, and Git.) Tj ET
-BT /F1 11 Tf 0 0 0 rg 1 0 0 1 52.00 707.80 Tm (Last updated date: April 12, 2026) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 790.00 Tm (Performed RAG quality verification and implemented features with React, Ruby on) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 774.34 Tm (Rails, Elasticsearch, Kubernetes, and Docker.) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 745.68 Tm (Software and Hardware Engineer, Enecloud Incorporated \(2025.1 - 2025.8\)) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 725.01 Tm (Developed CRM frontend features using React and TypeScript.) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 706.35 Tm (Contributed to hardware development for electric-power measurement products.) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 677.69 Tm (Teaching Assistant, Research Seminar on Applied Physics, Waseda University \(2026.4) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 661.01 Tm (- current\)) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 640.34 Tm (Supported undergraduate students through research processes across three semesters.) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 621.68 Tm (Mentored two students in image-generation model development and evaluation.) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 603.02 Tm (Led students in presenting their research outcomes to faculty members.) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 574.36 Tm (Software Engineering Intern, Sansan, Inc. \(2026.7 - 2026.8\)) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 553.68 Tm (Developed web applications incorporating large language models \(LLMs\) and automatic) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 538.02 Tm (speech recognition \(ASR\).) Tj ET
+BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 493.36 Tm (Research Experience) Tj ET
+0.8 w 0.82 0.85 0.9 RG 52 474.06 m 543 474.06 l S
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 455.06 Tm (AIST Technical Trainee, Media Interaction Group, Human Informatics and Interaction) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 438.39 Tm (Research Institute, National Institute of Advanced Industrial Science and) Tj ET
+BT /F2 11.5 Tf 0.08 0.08 0.1 rg 1 0 0 1 52.00 421.71 Tm (Technology \(AIST\) \(2026.8 - 2026.9\)) Tj ET
+BT /F1 10.8 Tf 0.12 0.12 0.12 rg 1 0 0 1 66.00 401.04 Tm (Conducted research under the supervision of Dr. Tomoyasu Nakano.) Tj ET
+BT /F2 14 Tf 0.13 0.18 0.3 rg 1 0 0 1 52.00 356.38 Tm (Competences) Tj ET
+0.8 w 0.82 0.85 0.9 RG 52 337.08 m 543 337.08 l S
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 318.08 Tm (- Machine Learning: automatic music transcription, music information retrieval,) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 301.03 Tm (representation learning, and experiment design.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 276.98 Tm (- LLM Engineering: RAG evaluation, prompt engineering, and fine-tuning validation) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 259.93 Tm (for domain-specific applications.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 235.88 Tm (- Software Development: React, TypeScript, Ruby on Rails, Elasticsearch,) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 68.00 218.83 Tm (Kubernetes, Docker, and Git.) Tj ET
+BT /F1 11 Tf 0 0 0 rg 1 0 0 1 52.00 194.78 Tm (Last updated date: September 2, 2026) Tj ET
 endstream
 endobj
 9 0 obj
@@ -117,12 +143,12 @@ xref
 0000000418 00000 n 
 0000000555 00000 n 
 0000003400 00000 n 
-0000007393 00000 n 
-0000007965 00000 n 
-0000008035 00000 n 
-0000008111 00000 n 
+0000007748 00000 n 
+0000011016 00000 n 
+0000011086 00000 n 
+0000011162 00000 n 
 trailer
 << /Size 12 /Root 1 0 R >>
 startxref
-8268
+11319
 %%EOF
