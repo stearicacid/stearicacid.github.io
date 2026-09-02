@@ -11,6 +11,19 @@ function Section(props: { title: string; children: React.ReactNode }) {
   );
 }
 
+function Authors(props: { value: string }) {
+  return (
+    <>
+      {props.value.split(", ").map((author, idx, authors) => (
+        <span key={`${author}-${idx}`}>
+          {author === "Rin Sato" || author === "佐藤りん" ? <strong>{author}</strong> : author}
+          {idx < authors.length - 1 ? ", " : ""}
+        </span>
+      ))}
+    </>
+  );
+}
+
 function PublicationsList(props: { items: typeof publications }) {
   const sorted = [...props.items];
 
@@ -20,7 +33,7 @@ function PublicationsList(props: { items: typeof publications }) {
         <li key={`${pub.title}-${idx}`} className="pub-item">
           <div className="pub-title">{pub.title}</div>
           <div className="pub-meta">
-            {pub.authors}. {pub.venue},{" "}
+            <Authors value={pub.authors} />. {pub.venue},{" "}
             {pub.month && pub.year
               ? `${pub.month} ${pub.year}`
               : pub.date || pub.year}
